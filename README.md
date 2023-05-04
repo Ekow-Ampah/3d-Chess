@@ -1,5 +1,5 @@
 # 3d-Chess Demo
-Youtube video
+Youtube video: https://youtu.be/h2v-nP_txVU
 
 # How to run
 Make sure to call Pawn and Board properly whereever you decide to store them
